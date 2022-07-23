@@ -1,0 +1,29 @@
+nav {
+    position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
+    list-style-type: none;
+    display: block;
+}
+
+table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+tr td a{
+    padding: 15px;
+    color: wheat;
+    text-decoration: none;
+}
+tr td a:hover {
+    color: white;
+}
+
+ul {
+    color:white;
+    list-style-position: inside;
+}
+ol {
+    color:white;
+    list-style-position: inside;
+}
